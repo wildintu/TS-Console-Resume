@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 let n = 'Name: '
 let names = 'Lexi';
 let c = 'Career: ';
